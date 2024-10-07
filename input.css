@@ -3,28 +3,18 @@
 @tailwind utilities;
 
 
-    transform: translateY(7px);
   
-
-    .section-1 {
-      width: 1440px;
-      height: 735px;
-    }
-
-
-    .welcome {
-      width: 527px;
-      height: 399px;
-    }
-
-
-    .add-1 {
-      width: 694px;
-      height: 624px;
+.bgimg{
+     
+      background-image: url("images\Rectangle 20 (2).png");
+      
+       background-repeat: no-repeat;
+     background-size: cover; 
 
     }
+   
   .section-2{
-    width: 1145px;
+    width: 1100px;
     height: 621px;
   }
 
@@ -38,11 +28,11 @@
     width: 1145px;
   }
 
-
+/* 
   .image {
     width: 470px;
     height: 500px;
-  }
+  } */
 
   .section-4{
     width: 1170px;
